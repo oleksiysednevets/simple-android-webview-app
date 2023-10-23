@@ -2,4 +2,4 @@
 
 Simple Android application with extra hidden WebView.
 
-Builded APK can be found in 'app' folder.
+Builded APK can be found in 'app/apk/debug' folder.
